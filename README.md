@@ -1,2 +1,7 @@
-# GroceriesAPI
-API for groceries
+## GROCERIES API
+
+
+
+## License
+
+MIT
